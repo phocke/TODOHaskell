@@ -1,0 +1,3 @@
+# Just a simple TODO app written with help of happstack
+
+I don't know what it does yet, so I won't write a long essay here...
